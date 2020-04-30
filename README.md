@@ -5,4 +5,4 @@ If you have access as NT Authoriy on system, you can bypass Cylance AV by renami
 3) You can no bypass Cylance Memory protection. 
 mimikatz-stforum.jpg
 
-<image src="images/mimikatz-stforum.jpg.jpg" width="250" height="250">
+<image src="images/mimikatz-stforum.jpg.jpg" width="100" height="100">
